@@ -1,5 +1,5 @@
 // # https://www.codechef.com/INPRG01/problems/CATSDOGS
-#include "stdio.h"
+#include <stdio.h> // visit again for 100% working solution. this one works only 60%
 
 long long int main()
 {
