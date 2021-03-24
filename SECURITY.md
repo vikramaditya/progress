@@ -1,7 +1,8 @@
-# Are you Nuts???
+### SECURITY NOTICE
 
-1. This is not a source code for anything important
-2. This can not be compiled into binary
-3. There's nothing to install
-4. Each file goes solo
-5. Why're you here?
+##### 1. This repository contains only the source code of competitive programming problems from various online judges and competitions.
+##### 2. The Following Programming Languages are used in this repository:
+1. Python 3
+2. C 11
+3. CPP 17
+#### 3. This repository does not contain any harmful software or code.

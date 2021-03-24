@@ -1,11 +1,11 @@
 # Hello, World!
 
-### **Welcome to Progress**
+### **Welcome to vikramaditya/progress**
 
-This is my repository where I learn competitive programming.
+This is where I learn new skills and practise competitive programming problems.
 
-###### This repository is only for reference. Do not fool yourself by copy-submitting.
-
+###### This repository is only for reference.
+### You can find my submissions and statistics at the following address:
 ```
-MAJOR STRUCTURAL UPDATE IS CURRENTLY IN PROGRESS.
+https://www.stopstalk.com/user/profile/valisport
 ```
