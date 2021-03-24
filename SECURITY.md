@@ -6,4 +6,3 @@
 2. C 11
 3. CPP 17
 #### 3. This repository does not contain any harmful software or code.
-#### 4. Please refer README.md for usage instructions.
