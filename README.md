@@ -5,12 +5,8 @@
 This is where I practise competitive programming.
 
 ###### This repository is only for reference.
-### You can find my submissions and statistics at the following address:
+### You can find my submissions and statistics at :
 
-```
-https://clist.by/coder/valisport
-```
+[CLIST](https://clist.by/coder/valisport){: .btn .btn-green }
 
-```
-https://www.stopstalk.com/user/profile/valisport
-```
+[StopStalk](https://www.stopstalk.com/user/profile/valisport){: .btn .btn-red }
