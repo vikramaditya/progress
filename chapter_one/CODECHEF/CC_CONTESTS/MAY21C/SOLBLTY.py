@@ -1,4 +1,4 @@
-'''
+"""
 May Challenge 2021 Division 3
 https://www.codechef.com/MAY21C/SOLBLTY
 
@@ -7,7 +7,7 @@ Author: valisport
 Date: Fri May  7 16:53:57 IST 2021
 
 [https://github.com/vikramaditya/progress]
-'''
+"""
 
 T = int(input())
 for f in range(T):
