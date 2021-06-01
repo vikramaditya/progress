@@ -1,6 +1,6 @@
 
-### ** This is vikramaditya/progress**
+### This is vikramaditya/progress
 
-This is where I practise competitive programming.
+I practise competitive programming here.
 
 ###### This repository is only for reference.
