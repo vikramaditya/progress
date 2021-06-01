@@ -1,6 +1,4 @@
 
 ### This is vikramaditya/progress
 
-I practise competitive programming here.
-
-###### This repository is only for reference.
+#### WEBSITE IS STARTING TO EVOLVE. TIME NEEDED.1
