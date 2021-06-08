@@ -649,5 +649,5 @@ the exclusion of warranty; and each file should have at least the
 For any clarifications and disputes, please reach us at the following e-mail address:
 hello [DOT] public [AT] vajire [DOT] com
 
-The GNU General Public License does not permit incorporating your
+The GNU General Public License does not permit incorporating this
 program into proprietary programs.
