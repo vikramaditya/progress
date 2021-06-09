@@ -1,2 +1,2 @@
 # progress
-## Solutions of competitive programming problems
+	Solutions of competitive programming problems
