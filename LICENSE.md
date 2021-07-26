@@ -618,25 +618,16 @@ copy of the Program in return for a fee.
 
 END OF TERMS AND CONDITIONS
 
-### How to Apply These Terms to Your New Programs
-
-If you develop a new program, and you want it to be of the greatest
-possible use to the public, the best way to achieve this is to make it
-free software which everyone can redistribute and change under these
-terms.
-
-To do so, attach the following notices to the program. It is safest to
-attach them to the start of each source file to most effectively state
-the exclusion of warranty; and each file should have at least the
-"copyright" line and a pointer to where the full notice is found.
 
         progress source code library
         Copyright (C) 2021  Vikramaditya Vishnu Vajire
+        URL: https://github.com/vikramaditya/progress
+        MAIL: hello [DOT] public [AT] vajire [DOT] com
 
         This program is free software: you can redistribute it and/or modify
         it under the terms of the GNU General Public License as published by
-        the Free Software Foundation, either version 3 of the License, or
-        (at your option) any later version.
+        the Free Software Foundation, either version 3 of the License or
+        any later version.
 
         This program is distributed in the hope that it will be useful,
         but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -644,12 +635,7 @@ the exclusion of warranty; and each file should have at least the
         GNU General Public License for more details.
 
         You should have received a copy of the GNU General Public License
-        along with this program.  If not, see <https://www.gnu.org/licenses/>.
-        
-        For any clarifications and disputes, please reach us at the following e-mail address:         
-        hello [DOT] public [AT] vajire [DOT] com
-
-
+        along with this program.  If not, see <https://www.gnu.org/licenses/>.      
 
 The GNU General Public License does not permit incorporating this
 program into proprietary programs.
