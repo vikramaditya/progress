@@ -2,18 +2,16 @@
 """
 Introductory Problems : Missing Number
 """
-
 n = int(input())
-given = [int(c) for c in input().split()]
-given.sort()
-all = [int(c) for c in range(1,n+1)]
-res = -1
-for i in range(len(given)):
-    if given[i] != all[i]:
-        res = all[i]
-        break
+arr = [int(c) for c in input().split()]
+arr.sort()
 
-if res != -1:
-    print(res)
-else:
+artwo = [int(c) for c in range(1, n+1)]
+Found = False
+for i in range(n-1):
+    if arr[i] != artwo[i]:
+        print(artwo[i])
+        Found = True
+        break
+if Found == False:
     print(n)
