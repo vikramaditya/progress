@@ -1,0 +1,19 @@
+"""
+Author: valisport
+CSES 03 : Repetitions
+"""
+
+string = input()
+ct = 1
+tmp = 1
+for i in range(1, len(string)):
+    if string[i] == string[i-1]:
+        tmp += 1
+    else:
+        ct = max(ct, tmp)
+        tmp = 1
+ 
+ct = max(tmp, ct)
+ 
+print(ct)
+
