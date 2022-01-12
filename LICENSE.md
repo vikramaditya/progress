@@ -620,7 +620,7 @@ END OF TERMS AND CONDITIONS
 
 
         progress source code library
-        Copyright (C) 2021  Vikramaditya Vishnu Vajire
+        Copyright (C) 2021-2022  Vikramaditya Vishnu Vajire
         URL: https://github.com/vikramaditya/progress
         MAIL: hello [DOT] public [AT] vajire [DOT] com
 
