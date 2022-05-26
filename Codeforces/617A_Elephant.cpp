@@ -1,6 +1,6 @@
 /**
  * Author   : veep
- * Date     : Thursday, 26 May 2022 18:38:11 IST
+ * Date     : Thursday, 26 May 2022 18:40:10 IST
  */
 
 #include "bits/stdc++.h"
@@ -12,8 +12,7 @@ void solve(){
     int x; cin >> x;
     int res = 0;
 
-    res = x+4;
-    res = res/5;
+    res = (x+4) / 5;
 
     cout << res << endl; 
 
