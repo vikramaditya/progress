@@ -1,6 +1,7 @@
 /**
  * Author   : veep
- * Date     :Monday 21 February 2022 03:30:09 PM IST
+ * Date     : Monday 21 February 2022 03:32:18 PM IST
+ * 
  * Codeforces Practise Session
  * Code     : 1635B
  */
@@ -11,6 +12,9 @@ using namespace std;
 #define int long long
 
 int32_t main() {
+    ios_base::sync_with_stdio(0);
+    cin.tie(0); cout.tie(0);
+
     int n; cin >> n;
     int x; x = n;
     while (x--) {
